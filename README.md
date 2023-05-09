@@ -1,4 +1,4 @@
-# Nairo React Personal Portfolio Template
+# JJK SERVICES Personal Portfolio
 
 ## Description
 
@@ -13,13 +13,13 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```
-npm run start
+npm start
 ```
 
 ### Compiles and minifies for production
 
 ```
-npm run build
+npm build
 ```
 
 ### Lints and fixes files
