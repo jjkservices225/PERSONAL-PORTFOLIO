@@ -81,7 +81,7 @@ const About = () => {
                         </li>
                         <li>
                           <label>Email: </label>
-                          <span>jjkservices1@gamil.com</span>
+                          <span>jjkservices1@gmail.com</span>
                         </li>
                       </ul>
                     </div>
