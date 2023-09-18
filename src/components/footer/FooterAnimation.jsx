@@ -8,10 +8,10 @@ import {
 } from "react-icons/fa";
 
 const SocialShare = [
-  { Social: <FaFacebookF />, link: "https://www.facebook.com/profile.php?id=100004654455069" },
+  { Social: <FaFacebookF />, link: "https://www.facebook.com/profile.php?id=61550491021183" },
   { Social: <FaTwitter />, link: "https://twitter.com/JJKCO225" },
-  { Social: <FaInstagram />, link: "https://www.instagram.com/jeanjacqueskouamekouassi/" },
-  { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/jean-jacques-kouam%C3%A9-kouassi-5515a5273/" },
+  { Social: <FaInstagram />, link: "https://www.instagram.com/jjkdevtech/" },
+  { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/jean-jacques-kouam%C3%A9-5515a5273/" },
   { Social: <FaGithub />, link: "https://github.com/jjkservices225" },
 ];
 
