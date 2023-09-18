@@ -3,8 +3,13 @@ import Skills from "../skills/Skills";
 
 const educatonContent = [
   {
+    passingYear: "2023",
+    degreeTitle: "Certifié Front-end Developpeur",
+    instituteName: "Sur la plateforme en ligne CODEDAMN",
+  },
+  {
     passingYear: "2022-2023",
-    degreeTitle: "Bootcamp, Full-stack Developpeur",
+    degreeTitle: "Bootcamp, Front-ernd Developpeur",
     instituteName: "Sur la plateforme en ligne CODEDAMN",
   },
   {
