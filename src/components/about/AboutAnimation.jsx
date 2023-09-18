@@ -48,7 +48,7 @@ const About = () => {
 
                 <div className="about-text">
                   <p>
-                  Je suis un développeur Full-stack freelance avec 1 ans d'expérience. Je suis originaire de Côte d'Ivoire. Je code et crée des interfaces utilisateurs et des applications cross-platform IOS/Android  pour des gens extraordinaires dans le monde entier. J'aime travailler avec de nouvelles personnes, et également partagé de nouvelles expériences.
+                  Je suis un développeur Full-stack freelance avec 2 ans d'expérience. Je suis originaire de Côte d'Ivoire. Je code et crée des interfaces utilisateurs et des applications cross-platform IOS/Android  pour des gens extraordinaires dans le monde entier. J'aime travailler avec de nouvelles personnes, et également partagé de nouvelles expériences.
                   </p>
                 </div>
                 <div className="info-list">
